@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun Pratap Singh
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React JS 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on full stack web projects (Node React & Figma & MongoDB )  
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: Love Reading and playing Badminton 
