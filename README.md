@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack web projects (Node React & Figma & MongoDB )  
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/
 - 😄 Pronouns: He/ him
-- ⚡ Fun fact: Love Reading and playing Badminton 
+- ⚡ Fun fact: Love Traveling and playing Badminton 
 
 <!---
 Varun-Singh24/Varun-Singh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
