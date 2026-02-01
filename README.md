@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varun Pratap Singh
 - 👀 I’m interested in Data Science & Machine Learning 
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on project based on NLP-Deep Learning 
+- 🌱 I’m currently learning Deep Learning. 
+- 💞️ I’m looking to collaborate on project based on NLP. 
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/
 - 😄 Pronouns: He/ him
 - ⚡ Fun fact: Love Traveling and playing Badminton 
