@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Education-MCA%20@%20CU%20Karnataka-blue?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Data%20Eng-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> 
  <img src="https://img.shields.io/badge/Streak-%23GeekStreak60-006400?style=flat-square&logo=geeksforgeeks&logoColor=white" /> 
-  /p>
+/p>
 
 I am a technical problem-solver specializing in the intersection of **Cloud Infrastructure** and **Artificial Intelligence**. Currently, I am focused on mastering data orchestration within the **Microsoft Fabric** and **GCP** ecosystems while maintaining a strong streak in problem solving.
 
