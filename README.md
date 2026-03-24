@@ -9,6 +9,7 @@
 **Data Engineer | Machine Learning Enthusiast | Cloud Specialist**
 
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=dark&title_color=FF8C00&icon_color=FF8C00&hide_border=true" alt="Top Languages" height="150" /> 
   <img src="https://img.shields.io/badge/Education-MCA%20@%20Central%20University%20of%20Karnataka-blue?style=flat-square&logo=google-scholar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cloud%20Data%20Eng-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Streak-%23GeekStreak60-006400?style=flat-square&logo=geeksforgeeks&logoColor=white" />
@@ -31,8 +32,9 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 
 ### 📈 Contribution & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=nord&hide_border=true" alt="Varun Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=nord&hide_border=true" alt="Varun Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=nord&hide_border=true" alt="Varun Stats" height="150" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" alt="Varun's GitHub Streak" />
+  
 </p>
 
 ---
