@@ -29,15 +29,22 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 
 ---
 
+
+
 ### 📈 Contribution & Activity
-<p align="left">
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FF8C00" width="300px" /> | <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FF8C00" width="300px" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" width="300px" /> |
+
+---
+<!-- <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=dark&title_color=FF8C00&icon_color=FF8C00&hide_border=true" alt="Top Languages" height="150" /> 
   <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=nord&hide_border=true" alt="Varun Stats" height="150" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" alt="Varun's GitHub Streak" />
-  
-</p>
+ --- 
+</p> -->
 
----
 
 ### 🚀 Key Projects & Impact
 * **[BERT/RoBERTa NLP Classification](https://github.com/Varun-Singh24/Transformer-based-Text-Classification-using-BERT-DistilBERT-RoBERTa)**: Leveraged **HuggingFace** Transformers for high-accuracy text analysis.
