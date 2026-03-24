@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on project based on NLP. 
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/
 - 😄 Pronouns: He/ him
-- ⚡ Fun fact: Love Traveling and playing Badminton 
----
+- ⚡ Fun fact: Love Traveling and playing Badminton
+
 
 **Data Engineer | Machine Learning Enthusiast | Cloud Specialist**
 
@@ -48,7 +48,8 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
   
 </p>
 ---
----
+
+
 ### 🚀 Key Projects & Impact
 * **[BERT/RoBERTa NLP Classification](https://github.com/Varun-Singh24/Transformer-based-Text-Classification-using-BERT-DistilBERT-RoBERTa)**: Leveraged **HuggingFace** Transformers for high-accuracy text analysis.
 * **[Academic Performance Portal](https://github.com/Varun-Singh24/Academic-Performance-Analysis)**: Python-based GUI for data-driven academic tracking.
