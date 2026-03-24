@@ -51,6 +51,26 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 - 🏗️ Building scalable data pipelines using **BigQuery** and **Cloud Functions**.
 - 🧩 Refining logic with daily challenges on **GeeksforGeeks**.
 
+name: Update Activity
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-readme:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "⚡ Update recent activity"
+          MAX_LINES: 5
+
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/)
 <!---
