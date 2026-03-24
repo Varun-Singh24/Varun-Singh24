@@ -29,17 +29,18 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 
 ---
 
-### 🚀 Key Projects & Impact
-* **[BERT/RoBERTa NLP Classification](https://github.com/Varun-Singh24/Transformer-based-Text-Classification-using-BERT-DistilBERT-RoBERTa)**: Leveraged **HuggingFace** Transformers for high-accuracy text analysis.
-* **[Academic Performance Portal](https://github.com/Varun-Singh24/Academic-Performance-Analysis)**: Python-based GUI for data-driven academic tracking.
-
----
-
 ### 📈 Contribution & Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=nord&hide_border=true" alt="Varun Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=nord&hide_border=true" alt="Varun Streak" height="150" />
 </p>
+
+---
+
+### 🚀 Key Projects & Impact
+* **[BERT/RoBERTa NLP Classification](https://github.com/Varun-Singh24/Transformer-based-Text-Classification-using-BERT-DistilBERT-RoBERTa)**: Leveraged **HuggingFace** Transformers for high-accuracy text analysis.
+* **[Academic Performance Portal](https://github.com/Varun-Singh24/Academic-Performance-Analysis)**: Python-based GUI for data-driven academic tracking.
+
 
 ---
 
