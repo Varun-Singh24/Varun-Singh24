@@ -50,6 +50,14 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 
 ---
 
+### 📈 Contribution Dashboard
+
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=true&title_color=FF8C00&icon_color=FF8C00&hide=jupyter%20notebook" width="300px" /> | <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF8C00&icon_color=FF8C00" width="300px" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=tokyonight&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" width="300px" /> |
+
+---
+
 
 ### 🚀 Key Projects & Impact
 * **[BERT/RoBERTa NLP Classification](https://github.com/Varun-Singh24/Transformer-based-Text-Classification-using-BERT-DistilBERT-RoBERTa)**: Leveraged **HuggingFace** Transformers for high-accuracy text analysis.
@@ -64,28 +72,7 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 - 🧩 Refining logic with daily challenges on **GeeksforGeeks**.
 
 
-### ⚡ Recent Activity
---- 
-name: Update Activity
-
-on:
-  schedule:
-    - cron: "0 * * * *" # Updates every hour
-  workflow_dispatch: # Allows you to click a button to update
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "⚡ Update recent activity"
-          MAX_LINES: 5
-
----          
+### ⚡ Recent Activity        
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/)
