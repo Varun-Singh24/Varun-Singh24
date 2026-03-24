@@ -33,7 +33,6 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 
 ### 📈 Contribution & Activity
 
-| | | |
 | :---: | :---: | :---: |
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FF8C00" width="300px" /> | <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=dark&hide_border=true&title_color=FF8C00&icon_color=FF8C00" width="300px" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" width="300px" /> |
 
