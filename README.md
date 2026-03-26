@@ -40,7 +40,7 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 ---
 --> 
 ---
-<p align="left">
+<p align="center">
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=dark&title_color=FF8C00&icon_color=FF8C00&hide_border=true" alt="Top Languages" height="150" />  -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=nord&hide_border=true" alt="Varun Stats" height="150" />  -->
