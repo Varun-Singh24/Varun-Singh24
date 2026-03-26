@@ -34,15 +34,38 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 ### 📈 Contribution & Activity
 
 <p align="center">
+<!----  NOT USED til 
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=dark&title_color=FF8C00&icon_color=FF8C00&hide_border=true" alt="Top Languages" height="150" />  -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=nord&hide_border=true" alt="Varun Stats" height="150" />  -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=tokyonight&hide_border=false&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" alt="Varun's GitHub Streak"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00&count_private=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="415px" />    
+</p>    UNtill here dont use 
+  -->
+
+<!---
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=tokyonight&hide_border=false&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" alt="Varun's GitHub Streak"  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00&count_private=true"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="415px" />    
+-->
+
+
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=tokyonight&hide_border=false&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" alt="Varun's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00&count_private=true" alt="Varun's Stats" />
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00&count_private=true" alt="Varun's Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="415px" alt="Top Languages" />
 </p>
 
 ---
 
 ### ⚡ Recent Activity
+
 ---
+
+
 
 ### 🚀 Key Projects & Impact
 * **[BERT/RoBERTa NLP Classification](https://github.com/Varun-Singh24/Transformer-based-Text-Classification-using-BERT-DistilBERT-RoBERTa)**: Leveraged **HuggingFace** Transformers for high-accuracy text analysis.
@@ -56,7 +79,15 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 - 🏗️ Building scalable data pipelines using **BigQuery** and **Cloud Functions**.
 - 🧩 Refining logic with daily challenges on **GeeksforGeeks**.
 
+
 --- 
+
+
+
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/)
+<!---
+Varun-Singh24/Varun-Singh24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
