@@ -50,18 +50,13 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 -->
 
 
-</p>
-
-
-
-</p>
 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh24&theme=tokyonight&hide_border=false&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00" alt="Varun's GitHub Streak" />
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Varun-Singh24&show_icons=true&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00&count_private=true" alt="Varun's Stats" /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="415px" />    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="415px" />    
 </p>
 
 ---
