@@ -58,7 +58,7 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="315px" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Varun-Singh24&layout=compact&theme=tokyonight&hide_border=false&title_color=FF8C00&icon_color=FF8C00" width="415px" height="300px" />
 </p>
 
 ---
