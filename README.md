@@ -64,11 +64,11 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 ---
 
 ---
-
+<!--
 ### ⚡ Recent Activity
 
----
-
+ --> 
+--
 
 
 ### 🚀 Key Projects & Impact
