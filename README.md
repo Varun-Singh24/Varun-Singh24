@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on project based on NLP. 
 - 📫 How to reach me on LinkedIn : https://www.linkedin.com/in/varun-pratap-singh-a2baa918b/
 - 😄 Pronouns: He/ him
-- ⚡ Fun fact: Love Traveling and playing Badminton
+- ⚡ Fun fact: Love Traveling and playing Badminton 
 
 
 **Data Engineer | Machine Learning Enthusiast | Cloud Specialist**
@@ -64,7 +64,7 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 ---
 
 
-### ⚡ Recent Activity
+### ⚡ Recent Activity 
 
 
 --
@@ -81,7 +81,6 @@ I am a technical problem-solver specializing in the intersection of **Cloud Infr
 - 🎓 Finalizing **DP-700: Microsoft Fabric Data Engineer** certification.
 - 🏗️ Building scalable data pipelines using **BigQuery** and **Cloud Functions**.
 - 🧩 Refining logic with daily challenges on **GeeksforGeeks**.
-
 
 --- 
 
